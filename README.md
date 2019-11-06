@@ -6,9 +6,12 @@ In the Markdown Article I learned how to make formated text.
 ## how to make  headings
 ### with varying their sizes
 #### just like this
+ you can cross text out
+ 
+`~~corssings~~`
 
-~~corssings~~
-
+ and add code  with the specific language markings
+ 
 ```python
 def convert_to_celsius(tempF)
    '''Precondition is that tempF will be the temperature in Fahrenheit
