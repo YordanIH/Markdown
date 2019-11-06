@@ -23,6 +23,6 @@ def convert_to_celsius(tempF)
 Table
 -----------------------
 COLLUMN | COLLUMN|COLLUMN 
--------------------------
+---------|--------|--------
 ROW |
 ROW |
