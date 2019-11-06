@@ -11,7 +11,7 @@ In the Markdown Article I learned how to make formated text.
 
 ```python
 def convert_to_celsius(tempF)
-"""Precondition is that tempF will be the temperature in Fahrenheit'
+"""Precondition is that tempF will be the temperature in Fahrenheit
 This function takes the temperature in fahrenheit as a parameter and return the value in ceslsius
 >>> convert_to_celsius(75)
 23.8888888888"""
