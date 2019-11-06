@@ -8,7 +8,7 @@ In the Markdown Article I learned how to make formated text.
 #### just like this
  you can cross text out
  
-`~~corssings~~`
+~~corssings~~
 
  and add code  with the specific language markings
  
@@ -23,9 +23,9 @@ def convert_to_celsius(tempF)
 
 # There is a way to create tables
 
-
+Table1
+|---------------------------|
 |          |COLLUMN|COLLUMN |
-|----------|-------|--------|
 |ROW       |       | .      |
 |ROW       | .     | .      |
 
