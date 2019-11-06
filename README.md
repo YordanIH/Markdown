@@ -19,10 +19,10 @@ def convert_to_celsius(tempF)
    ```
 
 # There is a way to create tables
-
-|Table1
-|------------------------
-|COLLUMN | COLLUMN|COLLUMN 
-|---------|--------|--------
-|ROW |
-|ROW |
+|-------------------------------|
+|          Table1               |
+|-------------------------------|
+|COLLUMN   |COLLUMN   |COLLUMN  |
+|---------:|:--------:|--------:|
+|ROW       |
+|ROW       |
