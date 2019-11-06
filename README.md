@@ -10,7 +10,8 @@ In the Markdown Article I learned how to make formated text.
  
 ~~corssings~~
 
- and add code  with the specific language markings
+ 
+ You can format text by making it *italic* or **bold** and add code  with the specific language color markings.
  
 ```python
 def convert_to_celsius(tempF)
@@ -28,3 +29,15 @@ def convert_to_celsius(tempF)
 --- | --- | ---
 Row1 | info | info
 Row2 | info | info
+
+## You can create a list of tasks and mark what is complete and what not
+
+- [x] Complete
+
+- [ ] Not
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
