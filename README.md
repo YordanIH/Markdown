@@ -23,11 +23,10 @@ def convert_to_celsius(tempF)
 
 # There is a way to create tables
 
-Table1                     
-|----------|-------|--------|
-|          |COLLUMN|COLLUMN |
-|ROW       |       | .      |
-|ROW       | .     | .      |
+
+|          |Column1|Column2|
+|Row1   |  Info     | Info  |
+|Row2    | Info     | Info  |
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
