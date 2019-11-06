@@ -17,3 +17,12 @@ def convert_to_celsius(tempF)
    23.8888888888'''
    return (tempF-32) * 5/9
    ```
+
+# There is a way to create tables
+
+Table
+-----------------------
+COLLUMN | COLLUMN|COLLUMN 
+-------------------------
+ROW |
+ROW |
