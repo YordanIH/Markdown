@@ -24,7 +24,7 @@ def convert_to_celsius(tempF)
 # There is a way to create tables
 
 
- | Column1 | Column2
+|    | Column1 | Column2
 --- | --- | ---
 Row1 | info | info
 Row2 | info | info
