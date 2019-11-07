@@ -66,7 +66,8 @@ There are emojies to be used from this [cheatsheet](https://github.com/ikatyang/
 ![Image of Hulatocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
+You can add a screenshot too
 
-
+![IMAGE](https://github.com/YordanIH/Markdown/blob/a7d9d2012acc736df7ba795f4e0d23fe0485924f/Screenshot%202019-11-07%20at%2016.16.35.png?raw=true)
 
 
