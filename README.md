@@ -46,7 +46,7 @@ Row2 | info | info
   * List item 2.2
 * List item 3
 
-!(image of Hulatocat)
+![image of Hulatocat]
 (https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
