@@ -48,7 +48,7 @@ Row2 | info | info
 
 ### you can put in in line code like this `def function(a: int)`
 
-you can quote someone or mention them @kikitux
+you can quote someone or mention them @YordanIH
 
 Someone told me:
 
