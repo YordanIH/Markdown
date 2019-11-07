@@ -46,8 +46,24 @@ Row2 | info | info
   * List item 2.2
 * List item 3
 
-![image of Hulatocat]
-(https://octodex.github.com/images/hula_loop_octodex03.gif)
+### you can put in in line code like this `def function(a: int)`
+
+### you can quote someone or mention them @kikitux
+
+Someone told me:
+
+>Hey Yordan, how are you doing?
+
+Links are automatically converted to clickable URLs
+[YouTube](https://www.youtube.com/)
+
+There are emojies to be used from this [cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)!
+
+:sunglasses: :swimming_man: :monkey: :100: :fire:
+
+## Enjoy the gif below!
+
+![Image of Hulatocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
 
