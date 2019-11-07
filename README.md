@@ -46,7 +46,7 @@ Row2 | info | info
   * List item 2.2
 * List item 3
 
-### you can put in in line code like this `def function(a: int)`
+### you can put inline code like this `def function(a: int)`
 
 you can quote someone or mention them @YordanIH
 
