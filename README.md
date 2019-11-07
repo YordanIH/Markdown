@@ -32,12 +32,23 @@ Row2 | info | info
 
 ## You can create a list of tasks and mark what is complete and what not
 
+### Task
+  
 - [x] Complete
 
 - [ ] Not
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+### You can format bullet points
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+* List item 1 
+* List item 2
+  * List item 2.1
+  * List item 2.2
+* List item 3
+
+!(image of Hulatocat)
+(https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+
+
+
